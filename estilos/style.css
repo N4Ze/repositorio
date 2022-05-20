@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+body {
+    background-color: black;
+}
+
+.color-blanco {
+    color: white;
+}
+
+header ul li {
+    border: solid 1px white;
+    padding: 0.2rem;
+    margin: 0.2rem;
+    height: 3rem;
+}
